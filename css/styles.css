@@ -1,18 +1,19 @@
 h1 {
   color: #FA3416;
-  text-align: center;  
+  text-align: right;  
 }
 
 h2 {
   font-style: italic;
   text-align: center;
+  font-weight: 500px;
 }
 
 p {
-  font-family: sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 25px;
+  line-height: 50px;
 }
