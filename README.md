@@ -1,8 +1,8 @@
-# _{My first webpage}_
+# _My first webpage_
 
-#### By _**{Viktoriia Zubarieva}**_
+#### By _**Viktoriia Zubarieva**_
 
-#### _{Demonstration site showcasing HTML, CSS}_
+#### _Demonstration site showcasing HTML, CSS_
 
 ## Technologies Used
 
@@ -11,13 +11,13 @@
 
 ## Description
 
-_{This demonstration site shows how new stydent who only start learning HTML made their first web page by using tags and elements. On the page "My favourite things" user can read information about pearson Mike and his favorite things. This web page was also made first time in new student's life and shows how student undertand writing HTML }_
+_This demonstration site shows how new stydent who only start learning HTML made their first web page by using tags and elements. On the page "My favourite things" user can read information about pearson Mike and his favorite things. This web page was also made first time in new student's life and shows how student undertand writing HTML _
 
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop_
 * _Navigate to the top level of the directory_
-* _Open my-first-webpage.html 
+* _Open my-first-webpage.html_ 
 
 ## Known Bugs
 
@@ -26,7 +26,7 @@ _{This demonstration site shows how new stydent who only start learning HTML mad
 
 ## License
 
-_{MIT}_
+_MIT_
 
 Copyright (c) _2022_ _Viktoriia Zubarieva_
 
